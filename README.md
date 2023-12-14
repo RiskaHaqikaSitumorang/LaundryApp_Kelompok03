@@ -11,7 +11,7 @@ This program is a simulation for self-service laundry reservations. Customers wi
 - Novia Anggraini         (2208107010068)
 - Riska Haqika Situmorang (2208107010086)
 
-# how to run the program
+# How to run the program
 1. Clone or download this GitHub repository.
 2. Open and extract the contents of the zip folder.
 3. Open the Projek_Lab_PBO.jar folder using an Integrated Development Environment (IDE).
@@ -20,7 +20,8 @@ This program is a simulation for self-service laundry reservations. Customers wi
 6. Alternatively, if you want to run it directly from the folder in the file manager, simply click on the .jar file. This will 
    automatically execute the GUI program.
 
-
+![image.png]( {![image](https://github.com/RiskaHaqikaSitumorang/LaundryApp_Kelompok03/assets/132327468/b3361986-1efc-4852-b512-dc8782404e01)
+} )
 
 
 
