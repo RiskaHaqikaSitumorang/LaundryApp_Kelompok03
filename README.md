@@ -20,7 +20,8 @@ This program is a simulation for self-service laundry reservations. Customers wi
 6. Alternatively, if you want to run it directly from the folder in the file manager, simply click on the .jar file. This will 
    automatically execute the GUI program.
 
-{![image](https://github.com/RiskaHaqikaSitumorang/LaundryApp_Kelompok03/assets/132327468/b3361986-1efc-4852-b512-dc8782404e01)
+# screenshot
+![image](https://github.com/RiskaHaqikaSitumorang/LaundryApp_Kelompok03/assets/132327468/b3361986-1efc-4852-b512-dc8782404e01)
 
 
 
